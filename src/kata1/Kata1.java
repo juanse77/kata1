@@ -6,7 +6,7 @@ public class Kata1 {
 
     public static void main(String[] args) {
         Person person = new Person("Juan", new Date(77, 11, 5));
-        System.out.println(person.getName() + " tiene " + person.getAge() + "años.");
+        System.out.println(person.getName() + " tiene " + person.getAge() + "años. Adios.");
     }
 
 }
