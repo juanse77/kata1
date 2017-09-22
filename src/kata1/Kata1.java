@@ -10,7 +10,7 @@ public class Kata1 {
         date.set(1977, 12, 5);
         
         Person person = new Person("Juan", date);
-        System.out.println(person.getName() + " tiene " + person.getAge() + "años.");
+        System.out.println(person.getName() + " tiene " + person.getAge() + "años. Hola.");
     }
 
 }
